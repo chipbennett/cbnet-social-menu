@@ -39,13 +39,16 @@ Activiation and Use
 
 = What font icons are supported? =
 
-Currently, the Plugin supports Genericons and Font Awesome
+Currently, the Plugin supports Genericons, Font Awesome, Zurb Foundation, and JustVector. (Mono Social will be added in the next release.)
 
 Most social networks are supported by both font icons, including Dribble, Dropbox, Facebook, Flickr, GitHub, Instagram, LinkedIn, Pinterest, Google+, Skype, Tumblr, Twitter, and YouTube.
 
 Genericons adds support for Codepen, Digg, Path, Pocket, PollDaddy, Reddit, StumbleUpon, Vimeo, WordPress, and WordPress.com. To use one of these networks, you must select the Genericons font.
 
 Font Awesome adds support for BitBucket, FourSquare, and StackExchange. To use one of these networks, you must select the Font Awesome font.
+
+(Question to be updated)
+
 
 == Screenshots ==
 
@@ -69,6 +72,24 @@ License URI: /fonts/genericons/LICENSE.txt
 Source: http://fontawesome.io
 License: SIL OFL 1.1
 License URI: /fonts/font-awesome/font-awesome.css
+
+**Zurb Foundation Icons, Copyright ZURB 2013 **
+
+Source: http://zurb.com/playground/foundation-icons
+License: MIT
+License URI: /fonts/zurb-foundation/foundation-icons.css
+
+**JustVector Icon Font, Copyright Sergio Díaz, Derived from JustVector Icons, Copyright Alex Peattie (http://alexpeattie.com/projects/justvector_icons/)**
+
+Source: http://blog.martianwabbit.com/post/4344642365.html
+License: Free Art License
+License URI: /fonts/justvector/README.txt
+
+**Mono Social Icons**
+
+Source: http://drinchev.github.io/monosocialiconsfont/
+License: SIL OFL 1.1
+License URI: https://github.com/drinchev/monosocialiconsfont/blob/master/OFL.txt
 
 == Changelog ==
 

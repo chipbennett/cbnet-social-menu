@@ -28,10 +28,8 @@
  * @todo	support other icon sets
  * 
  * Possible icon sets (need to verify licenses):
- * Zurb Foundation Icons: http://zurb.com/playground/foundation-icons
+ * Zurb Foundation Icons: http://zurb.com/playground/foundation-icons (MIT)
  * JustVector Social Icons: http://blog.martianwabbit.com/post/4344642365.html (Free Art License)
- * Typicons: http://typicons.com/
- * Rondo Social Icon Font: http://www.tajfa.com/projects/rondo/
  * weloveiconfonts: http://weloveiconfonts.com/
  * 
  * @todo	add Widget option for Icon Size
@@ -204,6 +202,8 @@ function cbnet_social_menu_get_social_icons( $font = 'genericons' ) {
 function cbnet_social_menu_valid_icon_fonts() {
 	return array(
 		'genericons' => __( 'Genericons', 'cbnet-social-menu' ),
-		'font-awesome' => __( 'Font Awesome', 'cbnet-social-menu' )
+		'font-awesome' => __( 'Font Awesome', 'cbnet-social-menu' ),
+		'zurb-foundation' => __( 'Zurb Foundation Icons', 'cbnet-social-menu' ),
+		'justvector' => __( 'JustVector Social Icons', 'cbnet-social-menu' )
 	);
 }

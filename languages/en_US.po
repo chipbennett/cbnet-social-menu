@@ -1,53 +1,56 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: cbnet Social Menu\n"
-"POT-Creation-Date: 2014-02-09 10:48-0500\n"
-"PO-Revision-Date: 2014-02-09 10:49-0500\n"
+"POT-Creation-Date: 2014-02-10 21:57-0500\n"
+"PO-Revision-Date: 2014-02-10 21:57-0500\n"
 "Last-Translator: Chip Bennett <chip@chipbennett.net>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.5\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: C:\\Documents and Settings\\wbennett\\My Documents"
-"\\Dev\\GitHub\\cbnet-social-menu\n"
+"X-Poedit-SearchPath-0: ..\n"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:52
-msgid "Social"
+#: ../cbnet-social-menu.php:55
+msgid "Social Profile Links"
 msgstr "Social"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:90
-msgid "cbnet Social Menu widget to display social network icons"
-msgstr "cbnet Social Menu widget to display social network icons"
+#: ../cbnet-social-menu.php:109
+msgid "Widget to display social network profile link icons"
+msgstr "Widget to display social network profile link icons"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:91
-msgid "cbnet Social Icons Menu"
-msgstr "cbnet Social Icons Menu"
+#: ../cbnet-social-menu.php:110
+msgid "cbnet Social Profile Links"
+msgstr "cbnet Social Profile Links"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:131
+#: ../cbnet-social-menu.php:148
 msgid "Title"
 msgstr "Title"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:136
+#: ../cbnet-social-menu.php:153
 msgid "Icon Font"
 msgstr "Icon Font"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:187
+#: ../cbnet-social-menu.php:204
 msgid "Genericons"
 msgstr "Genericons"
 
-#: C:\Documents and Settings\wbennett\My
-#: Documents\Dev\GitHub\cbnet-social-menu/cbnet-social-menu.php:188
+#: ../cbnet-social-menu.php:205
 msgid "Font Awesome"
 msgstr "Font Awesome"
+
+#: ../cbnet-social-menu.php:206
+msgid "Zurb Foundation Icons"
+msgstr "Zurb Foundation Icons"
+
+#: ../cbnet-social-menu.php:207
+msgid "JustVector Social Icons"
+msgstr "JustVector Social Icons"
+
+#~ msgid "Social"
+#~ msgstr "Social"
 
 #~ msgid "Posts per page"
 #~ msgstr "Posts per page"
