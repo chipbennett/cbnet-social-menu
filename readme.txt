@@ -2,6 +2,7 @@
 Contributors: chipbennett
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QP3N9HUSYJPK6
 Tags: cbnet, social, social networks, menu, custom nav menu, widget
+License:       GNU General Public License, v2 (or newer)
 Requires at least: 3.8
 Tested up to: 3.8.1
 Stable tag: 1.0
@@ -54,43 +55,6 @@ Font Awesome adds support for BitBucket, FourSquare, and StackExchange. To use o
 
 Screenshots coming soon.
 
-== Copyrights ==
-
-The concept for this Plugin is taken from <a href="http://justintadlock.com/archives/2013/08/14/social-nav-menus-part-2">example code by Justin Tadlock</a>, 
-and the code used in the Plugin is derived from similar functionality in my <a href="http://wordpress.org/themes/oenology">Oenology Theme</a>.
-
-This Plugin is bundled with the following Icon Fonts:
-
-**Genericons, Copyright 2013 Automattic**
-
-Source: http://www.genericons.com
-License: GNU GPL, Version 2 (or later)
-License URI: /fonts/genericons/LICENSE.txt 
-
-**Font Awesome, Copyright Dave Gandy - http://fontawesome.io**
-
-Source: http://fontawesome.io
-License: SIL OFL 1.1
-License URI: /fonts/font-awesome/font-awesome.css
-
-**Zurb Foundation Icons, Copyright ZURB 2013 **
-
-Source: http://zurb.com/playground/foundation-icons
-License: MIT
-License URI: /fonts/zurb-foundation/foundation-icons.css
-
-**JustVector Icon Font, Copyright Sergio Díaz, Derived from JustVector Icons, Copyright Alex Peattie (http://alexpeattie.com/projects/justvector_icons/)**
-
-Source: http://blog.martianwabbit.com/post/4344642365.html
-License: Free Art License
-License URI: /fonts/justvector/README.txt
-
-**Mono Social Icons**
-
-Source: http://drinchev.github.io/monosocialiconsfont/
-License: SIL OFL 1.1
-License URI: https://github.com/drinchev/monosocialiconsfont/blob/master/OFL.txt
-
 == Changelog ==
 
 = 1.0 =
@@ -101,3 +65,36 @@ License URI: https://github.com/drinchev/monosocialiconsfont/blob/master/OFL.txt
 
 = 1.0 =
 Initial Release.
+
+
+== Copyrights ==
+
+The concept for this Plugin is taken from <a href="http://justintadlock.com/archives/2013/08/14/social-nav-menus-part-2">example code by Justin Tadlock</a>, 
+and the code used in the Plugin is derived from similar functionality in my <a href="http://wordpress.org/themes/oenology">Oenology Theme</a>.
+
+This Plugin is bundled with the following Icon Fonts:
+
+= Genericons, Copyright 2013 Automattic =
+
+Source: http://www.genericons.com
+License Info: GNU GPL, Version 2 (or later) - /fonts/genericons/LICENSE.txt 
+
+= Font Awesome, Copyright Dave Gandy - http://fontawesome.io =
+
+Source: http://fontawesome.io
+License Info: SIL OFL 1.1 - /fonts/font-awesome/font-awesome.css
+
+= Zurb Foundation Icons, Copyright ZURB 2013 =
+
+Source: http://zurb.com/playground/foundation-icons
+License Info: MIT - /fonts/zurb-foundation/foundation-icons.css
+
+= JustVector Icon Font, Copyright Sergio Díaz, Derived from JustVector Icons, Copyright Alex Peattie (http://alexpeattie.com/projects/justvector_icons/) =
+
+Source: http://blog.martianwabbit.com/post/4344642365.html
+License Info: Free Art License - /fonts/justvector/README.txt
+
+= Mono Social Icons =
+
+Source: http://drinchev.github.io/monosocialiconsfont/
+License Info: SIL OFL 1.1 - https://github.com/drinchev/monosocialiconsfont/blob/master/OFL.txt
