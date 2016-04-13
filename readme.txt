@@ -4,14 +4,14 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: cbnet, social, social networks, menu, custom nav menu, widget
 License:       GNU General Public License, v2 (or newer)
 Requires at least: 3.8
-Tested up to: 3.8.1
+Tested up to: 4.5
 Stable tag: 1.0
 
 Manage and display your social network profile links using a custom navigation menu.
 
 == Description ==
 
-This Plugin adds a custom Widget that allows you to add a list of social network profile links to any Theme, using a cusotm navigation menu. Using this 
+This Plugin adds a custom Widget that allows you to add a list of social network profile links to any Theme, using a custom navigation menu. Using this 
 method, you will keep your social profile links portable from Theme to Theme instead of having to re-enter them as Theme options each time you switch Themes.
 
 == Installation ==
